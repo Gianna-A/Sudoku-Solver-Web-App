@@ -1,4 +1,4 @@
-### Sudoku-Solver-Web-App
+# Sudoku-Solver-Web-App
 The Sudoku Solver Web App is a full-stack application that allows users to solve partially filled Sudoku puzzles using an efficient backtracking algorithm. Users can create an account, log in, and manage their solved and unsolved puzzles through a personalised dashboard. This currently an ongoing project at the moment.
 
 ## Features:
