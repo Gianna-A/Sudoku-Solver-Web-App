@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore Django secret keys and settings
+*.env
+db.sqlite3
+
+# Ignore Node.js dependencies
+node_modules/
+build/
